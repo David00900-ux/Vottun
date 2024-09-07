@@ -61,14 +61,4 @@ Obtén los Detalles del Despliegue:
 Después del despliegue, obtendrás un hash de transacción y la dirección del contrato.
 Para redes de prueba, también tendrás un hash de transacción.
 Ejemplo de Despliegue y Pruebas
-Usando Remix:
-
-Copia el código del contrato en Remix IDE.
-Compila el contrato.
-Despliega en la red de prueba Rinkeby.
-Copia la dirección del contrato y el hash de la transacción desde Remix.# Vottungit init
-git add .
-git commit -m "Añadir contrato inteligente de lotería"
-git branch -M main
-git remote add origin <URL_DEL_REPOSITORIO>
-git push -u origin main
+Usando Remix
